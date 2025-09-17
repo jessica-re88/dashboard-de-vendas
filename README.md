@@ -40,5 +40,13 @@ Assista a um breve vídeo do dashboard em ação:
 
 ## Como Usar
 
-Para explorar o dashboard interativo, basta abrir o arquivo `.pbix` (disponível neste repositório) com o Power BI Desktop.
+Para explorar o dashboard interativo, basta abrir o arquivo `.pbix` (disponível neste repositório) com o Power BI Desktop. 
+---
+
+## 📈 Visual do Dashboard
+Exemplo de visualização do dashboard:  
+
+![Dashboard](https://github.com/jessica-re88/dashboard-de-vendas/blob/main/Dashboard1.png)
+![Dashboard](https://github.com/jessica-re88/dashboard-de-vendas/blob/main/Dashboard2.png)
+---
 
